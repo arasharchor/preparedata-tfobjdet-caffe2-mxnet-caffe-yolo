@@ -1,0 +1,1 @@
+/home/majid/Myprojects/ECCV18/models/research/object_detection/object_detection_tensorflow/ssd_mobilenet_v1_coco_2017_11_17/VOCdevkit/VOC2007/ImageSets/Main/train.txt
